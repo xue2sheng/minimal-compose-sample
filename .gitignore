@@ -23,6 +23,8 @@
 hs_err_pid*
 replay_pid*
 
-# IDEA generated
-/build/
-/.gradle/
+# gradle & IDEA generated
+.idea/
+.gradle/
+build/
+bin/
